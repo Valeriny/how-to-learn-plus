@@ -1,0 +1,9 @@
+.description {
+  padding-top: 100px;
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  height: 100%;
+}
