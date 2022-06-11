@@ -1,7 +1,5 @@
 .table {
-  /*border: 1px solid red;*/
   display: flex;
-  flex-direction: row;
   width: 1100px;
   justify-content: space-between;
   margin: 0 auto;

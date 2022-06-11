@@ -3,7 +3,6 @@
   width: 90%;
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
   box-sizing: border-box;
   min-height: 350px;
   padding: 60px 0 40px;

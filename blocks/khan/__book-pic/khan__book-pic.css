@@ -3,8 +3,7 @@
   padding: 0;
   width: 620px;
   height: 608px;
-  background-size: auto;
+  object-fit: cover;
   background-repeat: no-repeat;
-  /*border: 1px solid red;*/
-  overflow: hidden;
+  object-position: top;
 }
